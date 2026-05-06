@@ -1,0 +1,1 @@
+A feature does not work on first attempt but starts working after refreshing the page. QA identifies inconsistent behavior where users must manually refresh to get expected results. This creates confusion, as the system appears unreliable under normal usage.
